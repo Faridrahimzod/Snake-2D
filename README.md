@@ -1,6 +1,6 @@
 # Классическая Змейка на Unity
 
-![Gameplay Screenshot](Assets/Prefab/Новый точечный рисунок.png) 
+![Gameplay Screenshot](https://raw.githubusercontent.com/Faridrahimzod/Snake-2D/main/Assets/Prefab/Новый точечный рисунок.png) 
 
 Полнофункциональная реализация классической игры "Змейка" с современными особенностями.
 
