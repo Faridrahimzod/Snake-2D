@@ -81,10 +81,11 @@ Snake Component Settings
 
 Основные параметры
 Параметр	Описание	Значение по умолчанию
+
 Segment Prefab	Префаб сегмента тела	SnakeSegment
-Speed	Базовая скорость (шагов/сек)	20
-Speed Multiplier	Множитель скорости	1
+
 Initial Size	Начальная длина змейки	4
+
 Move Through Walls	Режим прохождения через стены	false
 
 ## Структура проекта
