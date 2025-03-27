@@ -31,7 +31,7 @@
 ### 1. Клонирование репозитория
 ```bash
 git clone https://github.com/Faridrahimzod/Snake-2D.git
-cd unity-snake-2D
+cd unity-Snake-2D
 ```
 
 ### 2. Импорт в Unity
