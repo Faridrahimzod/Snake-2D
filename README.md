@@ -30,8 +30,8 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/yourusername/unity-snake-game.git
-cd unity-snake-game
+git clone https://github.com/Faridrahimzod/Snake-2D.git
+cd unity-snake-2D
 ```
 
 ### 2. Импорт в Unity
